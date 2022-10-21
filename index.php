@@ -2,16 +2,16 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Customer Catalog</title>
+  <title>Catálogo de clientes</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 </head>
 <body>
   <div class = "container">
     <div class="jumbotron">
-      <h1 class="display-4">Customer Catalog</h1>
-      <p class="lead">Customer Catalog Sample Application</p>
+      <h1 class="display-4">Clientes Catalog</h1>
+      <p class="lead">Santiago Medina Martínez (smm018) Application</p>
       <hr class="my-4">
-      <p>PHP sample application connected to a MySQL database to list a customer catalog</p>
+      <p>PHP App conectada a una BD MySQL para listar un catálogo de clientes.</p>
     </div>
     <table class="table table-striped table-responsive">
       <thead>
