@@ -8,7 +8,7 @@
 <body>
   <div class = "container">
     <div class="jumbotron">
-      <h1 class="display-4">Clientes Catalog</h1>
+      <h1 class="display-4">Catálogo de Clientes</h1>
       <p class="lead">Santiago Medina Martínez (smm018) Application</p>
       <hr class="my-4">
       <p>PHP App conectada a una BD MySQL para listar un catálogo de clientes.</p>
